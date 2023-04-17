@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\CSHARP\MiniPauta\MiniPauta\bin\Debug\MiniPauta.exe.config
+C:\Users\admin\Desktop\CSHARP\MiniPauta\MiniPauta\bin\Debug\MiniPauta.exe
+C:\Users\admin\Desktop\CSHARP\MiniPauta\MiniPauta\bin\Debug\MiniPauta.pdb
+C:\Users\admin\Desktop\CSHARP\MiniPauta\MiniPauta\obj\Debug\MiniPauta.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\CSHARP\MiniPauta\MiniPauta\obj\Debug\MiniPauta.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\CSHARP\MiniPauta\MiniPauta\obj\Debug\MiniPauta.Form1.resources
+C:\Users\admin\Desktop\CSHARP\MiniPauta\MiniPauta\obj\Debug\MiniPauta.Properties.Resources.resources
+C:\Users\admin\Desktop\CSHARP\MiniPauta\MiniPauta\obj\Debug\MiniPauta.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CSHARP\MiniPauta\MiniPauta\obj\Debug\MiniPauta.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CSHARP\MiniPauta\MiniPauta\obj\Debug\MiniPauta.exe
+C:\Users\admin\Desktop\CSHARP\MiniPauta\MiniPauta\obj\Debug\MiniPauta.pdb
